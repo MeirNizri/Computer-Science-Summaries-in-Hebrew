@@ -1,0 +1,7 @@
+gcloud auth login
+
+cd C:\Users\Meir\Desktop\Projects\Contrastive-Explanation-for-Recommender-Systems
+
+gcloud app deploy
+
+gcloud app logs tail
